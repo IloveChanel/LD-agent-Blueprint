@@ -1,0 +1,8 @@
+{
+  "name": "ld-agent-blueprint",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/blueprint.mjs"
+  }
+}
